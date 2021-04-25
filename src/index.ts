@@ -173,7 +173,9 @@ app.delete("/api/zombie/:zombieId",
     })
 
 // updates a zombie
-app.post("/api/zombie", [], (req: any, res: any) => { })
+app.post("/api/zombie", [], (req: any, res: any) => {
+    res.status(200).send("not implemented yet")
+})
 
 // adds a new zombie
 app.put("/api/zombie",
