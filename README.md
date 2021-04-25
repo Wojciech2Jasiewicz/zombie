@@ -3,7 +3,7 @@ This is a zombie api
 
 # setup
 
-
+That app works in a local environment as a docker container. You have to build an docker immage with `zombie-serv` tag, before you get started. For starting that app use `docker-compose up`
 
 # endpoints
 

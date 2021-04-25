@@ -1,0 +1,7 @@
+Add tests for each case
+Add description to all endpoints
+Remove unnecessary logs and imports/pieces of code
+Add endpoint for an updating a zombie
+Add an internal network for an app and it's network
+Code refactoring
+Remove all grammar mistakes
